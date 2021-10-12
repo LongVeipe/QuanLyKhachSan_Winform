@@ -1,0 +1,404 @@
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Deadline\Lập trình trực quan\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+E:\LTTQ\Đồ án\VER4\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER4_LONG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER5_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER6_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER7_QUANG\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER8_QUY\VER7_QUANG\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER9_QUY\Đồ án quản lý khách sạn - Copy\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LenovoT470Ab\Desktop\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER10_QUYANG\VER10_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER11_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\UIT\Khác\VER12_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Home.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Home.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER14_QUY\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Home.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+E:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csprojAssemblyReference.cache
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fAdmin.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fDashBoard.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fEditPass.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fLogin.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fProfile.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.fSplashScreen.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Customer.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Employee.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Home.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Proceeds.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Room.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.UC.UC_Service.resources
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.GenerateResource.cache
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CoreCompileInputs.cache
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+F:\LTTQ\Đồ án\VER15_LONG\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb

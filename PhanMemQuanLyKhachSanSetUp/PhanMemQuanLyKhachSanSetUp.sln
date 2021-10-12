@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "PhanMemQuanLyKhachSanSetUp", "PhanMemQuanLyKhachSanSetUp.aiproj", "{48387AAE-AFA1-4A9F-AA4A-67F3298A3814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DefaultBuild|Default = DefaultBuild|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48387AAE-AFA1-4A9F-AA4A-67F3298A3814}.DefaultBuild|Default.ActiveCfg = DefaultBuild
+		{48387AAE-AFA1-4A9F-AA4A-67F3298A3814}.DefaultBuild|Default.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEA9203-1A75-4D49-AE5C-7EA8B62E4A56}
+	EndGlobalSection
+EndGlobal
